@@ -1,5 +1,3 @@
-# botTG
-Bot
 <!DOCTYPE html>
 <html lang="ru">
 <head>
